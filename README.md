@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arief Kurniawan</h1>
 <h3 align="center">Saya adalah mahasiswa yang sedang belajar di dunia programing</h3>
 
-- ⚡ Fun fact **i think i am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
