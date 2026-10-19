@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arief Kurniawan</h1>
-<h3 align="center">👋 Halo! Saya seorang mahasiswa yang sedang mempelajari dunia programming dan teknologi.Saya tertarik pada pengembangan perangkat lunak, web development, database, dan pemecahan masalah menggunakan kode.Saat ini saya terus belajar, mengembangkan proyek, dan meningkatkan kemampuan programming melalui praktik langsung.Saya percaya bahwa setiap proyek adalah kesempatan untuk belajar dan berkembang.Belajar, Berkarya, dan Berkembang melalui Coding!</h3>
+<h3 align="center">👋 Halo! Saya seorang mahasiswa yang sedang mempelajari dunia programming dan teknologi. Saya tertarik pada pengembangan perangkat lunak, web development, database, dan pemecahan masalah menggunakan kode. Saat ini saya terus belajar, mengembangkan proyek, dan meningkatkan kemampuan programming melalui praktik langsung. Saya percaya bahwa setiap proyek adalah kesempatan untuk belajar dan berkembang.Belajar, Berkarya, dan Berkembang melalui Coding!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
